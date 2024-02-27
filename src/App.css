@@ -78,6 +78,7 @@ main {
 
 .card img {
   width: 15em;
+  height: 12em;
   margin: 0 auto;
   border-radius: 2em;
 
@@ -116,7 +117,8 @@ footer p {
   border-radius: .1em;
 
 }
-::selection{
+
+::selection {
   background-color: var(--color1);
   color: #fff;
 }

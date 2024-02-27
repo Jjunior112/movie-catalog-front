@@ -5,9 +5,8 @@ const NavBar = () => {
         <nav>
 
             <ul>
-                <li><a href="http://" target="_blank" rel="noopener noreferrer">Home</a></li>
-                <li><a href="http://" target="_blank" rel="noopener noreferrer">Filmes</a></li>
-                <li><a href="http://" target="_blank" rel="noopener noreferrer">Series</a></li>
+                <li><a href="/" rel="noopener noreferrer">Home</a></li>
+
             </ul>
             <input type="text" name="" id="" />
         </nav>
